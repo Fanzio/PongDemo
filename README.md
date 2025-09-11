@@ -8,19 +8,19 @@ Gameplay contro AI: il nemico segue la posizione della pallina con un algoritmo 
 
 **Power-up dinamici:**
 
-Rallentamento del tempo: riduce temporaneamente la velocità della pallina.
+Rallentamento del tempo: riduce temporaneamente la velocità della partita.
 
-Moltiplicazione della pallina: genera una seconda pallina, aumentando la difficoltà.
+Moltiplicazione della pallina: genera una seconda pallina.
 
-Fisica della pallina e delle racchette: gestita tramite il motore fisico di Unity, con collisioni e rimbalzi realistici.
+Fisica della pallina: gestita tramite il motore fisico di Unity, con collisioni e rimbalzi.
 
-Punteggio in tempo reale per valutare le performance.
+Punteggio in tempo reale.
 
 ## 🖱️ Controlli PC
 
-W o Freccia su → Muovi la racchetta verso l’alto
+W o Freccia su → Per muoversi verso l’alto
 
-S o Freccia giù → Muovi la racchetta verso il basso
+S o Freccia giù → Per muoversi verso il basso
 
 ## 🎯 Demo gioco
 Demo Pong
