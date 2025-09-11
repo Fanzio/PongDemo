@@ -9,7 +9,7 @@ Questa è una demo del classico gioco **Pong**, sviluppata per scopi di apprendi
 - Punteggio in tempo reale.
 - Giocabile su PC senza installazioni.
   
-  **Power-up dinamici:**
+  ## Power-up dinamici:
 
 - Rallentamento del tempo: riduce temporaneamente la velocità della partita.
 
@@ -17,9 +17,9 @@ Questa è una demo del classico gioco **Pong**, sviluppata per scopi di apprendi
 
 ## 🖱️ Controlli PC
 
-W o Freccia su → Per muoversi verso l’alto
+- W o Freccia su → Per muoversi verso l’alto
 
-S o Freccia giù → Per muoversi verso il basso
+- S o Freccia giù → Per muoversi verso il basso
 
 ## 🎯 Demo gioco
 [Demo Pong](https://fanzio.github.io/PongDemo/)
