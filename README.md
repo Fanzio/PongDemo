@@ -23,4 +23,4 @@ W o Freccia su → Per muoversi verso l’alto
 S o Freccia giù → Per muoversi verso il basso
 
 ## 🎯 Demo gioco
-https://fanzio.github.io/PongDemo/
+[Demo Pong](https://fanzio.github.io/PongDemo/)
