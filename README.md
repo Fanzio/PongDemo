@@ -8,7 +8,8 @@ Questa è una demo del classico gioco **Pong**, sviluppata per scopi di apprendi
 - Fisica della pallina: gestita tramite il motore fisico di Unity, con collisioni e rimbalzi.
 - Punteggio in tempo reale.
 - Giocabile su PC senza installazioni.
-- **Power-up dinamici:**
+  
+  **Power-up dinamici:**
 
 - Rallentamento del tempo: riduce temporaneamente la velocità della partita.
 
