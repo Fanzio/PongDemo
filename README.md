@@ -5,17 +5,14 @@ Questa è una demo del classico gioco **Pong**, sviluppata per scopi di apprendi
 ## 🎮 Caratteristiche principali
 
 - Gameplay contro AI: il nemico segue la posizione della pallina con un algoritmo semplice.
-
-**Power-up dinamici:**
+- Fisica della pallina: gestita tramite il motore fisico di Unity, con collisioni e rimbalzi.
+- Punteggio in tempo reale.
+- Giocabile su PC senza installazioni.
+- **Power-up dinamici:**
 
 - Rallentamento del tempo: riduce temporaneamente la velocità della partita.
 
 - Moltiplicazione della pallina: genera una seconda pallina.
-
-- Fisica della pallina: gestita tramite il motore fisico di Unity, con collisioni e rimbalzi.
-
-- Punteggio in tempo reale.
-- Giocabile su PC senza installazioni.  
 
 ## 🖱️ Controlli PC
 
